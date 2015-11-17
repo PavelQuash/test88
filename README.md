@@ -1,2 +1,5 @@
-# test88
-Testing children in school years in Liceum 88, Ekaterinburg
+# Test88
+
+Язык: Pascal  
+IDE: Delphi  
+Описание проекта: [страница](http://pavelquash.github.io/test88/)
